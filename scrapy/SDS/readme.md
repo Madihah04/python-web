@@ -50,3 +50,34 @@ Scrapy requires Python 3.7+, either the CPython implementation (default) or the 
 You can install Scrapy and its dependencies from PyPI with:
 
 ``` pip install Scrapy ```
+
+---
+
+# About Dataset
+<table>
+  <tr>
+    <th>Columns</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <th>Title</th>
+    <th>Title of the book</th>
+  </tr>
+  <tr>
+    <th>Author</th>
+    <th>Author of the book</th>
+  </tr>
+  <tr>
+    <th>Published date</th>
+    <th>The date of the book published</th>
+  </tr>
+  <tr>
+    <th>Format</th>
+    <th>Format of the book</th>
+  </tr>
+  <tr>
+    <th>Price</th>
+    <th>Price of the book</th>
+  </tr>
+  
+</table>

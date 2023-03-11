@@ -4,6 +4,8 @@
 <h1>
   Web Scraping 
   <img src="https://github.com/drshahizan/python-web/blob/3f3437d90985e8fce70cb90023ab83985f3d86eb/selenium/group9/lazada.png" width="60" height="36"/> 
+  vs
+  <img src="https://github.com/Madihah04/python-web/blob/ec732a988c52566db5aafbac992b7e065288e3c2/selenium/group9/shopee.png" width="40" height="37"/> 
   using Selenium
 </h1>
 ________________________________________________________________________________________________________________________________________________________
@@ -13,6 +15,7 @@ Shopee and Lazada are two e-commerce platforms that customers are likely to cons
 <br></br>
 This study will determine whether one of the e-commerce websites is in fact less expensive than the other. Using a Python script with Selenium and the Chrome web driver, we will automate the scraping process and generate our dataset. Here, we will be scraping the product's name and price. Then, we will perform some basic data analysis with Pandas on the scraped dataset. We will conclude the price comparison using Matplotlib and Seaborn to create a simple visual chart.<br>
 <h2> Group Members</h2>
+
 <table>
   <tr>
     <th>Name</th>
@@ -32,7 +35,7 @@ This study will determine whether one of the e-commerce websites is in fact less
   </tr>
     </tr>
     <tr>
-    <th>Vincent Boo</th>
+    <th>Vincent Boo Ee Khai</th>
     <th>A20EC0231</th>
   </tr>
 </table>

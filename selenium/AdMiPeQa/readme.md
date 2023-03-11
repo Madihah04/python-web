@@ -7,8 +7,9 @@
 
   <br>
 </h1>
-In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br>
-<h2> Group Members</h2>
+In this file, we are going to do some web scraping by using selenium library. Website that we choose is Lazada which is the famous e-commerce site of Malaysia. We aim to get the information like product name, price, origin and number of review from the website.<br><br>
+<a href="https://www.lazada.com.my/">Website : Lazada</a><br>
+<h2> Group Members <img width=30px; height=30px src="https://user-images.githubusercontent.com/120556342/215398734-609ba04a-88e5-44b5-9eaa-239ac8edd091.png"></h2>
 <table>
   <tr>
     <th>Name</th>
@@ -33,6 +34,8 @@ In this file, we are going to do some web scraping by using selenium library. We
 </table>
 <h2>
   About Selenium
+  <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215529579-e4e8c35a-6143-455a-8d84-c77045a27cfe.png'>
+
   <br>
 </h2>
 Selenium is an open source automation testing tool that supports a number of scripting languages like Python, C#, Java, Perl, Ruby, JavaScript, etc. depending on the application to be tested, one can choose the script accordingly.<br><br>
@@ -40,6 +43,8 @@ Other than that, it is a Python library and tool used for automating web browser
 
 <h2>
   Results
+ <img width=30px; height=30px src='https://user-images.githubusercontent.com/120556342/215530028-c7f6cdd6-d9d5-4ae3-aabe-20bdc21052ac.png'>
+
   <br>
 </h2>
 
